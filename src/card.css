@@ -1,0 +1,19 @@
+.sizing{
+    width: 300px;
+    height: auto;
+}
+
+.sizing2{
+    width: 200px;
+    height: auto;
+}
+
+.upper{
+    text-transform: uppercase;
+    font-size: 28px;
+}
+
+.fetch{
+    color: white;
+    text-decoration: underline;
+}
